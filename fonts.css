@@ -1,11 +1,11 @@
 @font-face {
-    font-family: 'barioRegular';
+    font-family: 'bario-Regular';
     src: url('https://zurielatr.github.io/fonts/Bariol_Regular.woff') format('woff');
     font-weight: normal;
 }
 
 @font-face {
-    font-family: 'barioBold';
+    font-family: 'bario-Bold';
     src: url('https://zurielatr.github.io/fonts/Bariol_Bold.woff') format('woff');
     font-weight: bold;
 }
